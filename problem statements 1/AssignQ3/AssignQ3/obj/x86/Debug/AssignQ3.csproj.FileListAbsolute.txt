@@ -1,0 +1,4 @@
+c:\users\sam\documents\visual studio 2010\Projects\AssignQ3\AssignQ3\bin\Debug\AssignQ3.exe
+c:\users\sam\documents\visual studio 2010\Projects\AssignQ3\AssignQ3\bin\Debug\AssignQ3.pdb
+c:\users\sam\documents\visual studio 2010\Projects\AssignQ3\AssignQ3\obj\x86\Debug\AssignQ3.exe
+c:\users\sam\documents\visual studio 2010\Projects\AssignQ3\AssignQ3\obj\x86\Debug\AssignQ3.pdb

@@ -1,0 +1,4 @@
+c:\users\sam\documents\visual studio 2010\Projects\AssignQ8\AssignQ8\bin\Debug\AssignQ8.exe
+c:\users\sam\documents\visual studio 2010\Projects\AssignQ8\AssignQ8\bin\Debug\AssignQ8.pdb
+c:\users\sam\documents\visual studio 2010\Projects\AssignQ8\AssignQ8\obj\x86\Debug\AssignQ8.exe
+c:\users\sam\documents\visual studio 2010\Projects\AssignQ8\AssignQ8\obj\x86\Debug\AssignQ8.pdb
