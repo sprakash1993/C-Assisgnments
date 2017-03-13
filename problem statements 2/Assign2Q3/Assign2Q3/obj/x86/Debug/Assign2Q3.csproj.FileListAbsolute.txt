@@ -1,0 +1,4 @@
+c:\users\sam\documents\visual studio 2010\Projects\Assign2Q3\Assign2Q3\bin\Debug\Assign2Q3.exe
+c:\users\sam\documents\visual studio 2010\Projects\Assign2Q3\Assign2Q3\bin\Debug\Assign2Q3.pdb
+c:\users\sam\documents\visual studio 2010\Projects\Assign2Q3\Assign2Q3\obj\x86\Debug\Assign2Q3.exe
+c:\users\sam\documents\visual studio 2010\Projects\Assign2Q3\Assign2Q3\obj\x86\Debug\Assign2Q3.pdb

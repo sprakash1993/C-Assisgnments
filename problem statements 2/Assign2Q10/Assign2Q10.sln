@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assign2Q10", "Assign2Q10\Assign2Q10.csproj", "{7E036527-E12E-4F5D-AA29-5793A2655E17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E036527-E12E-4F5D-AA29-5793A2655E17}.Debug|x86.ActiveCfg = Debug|x86
+		{7E036527-E12E-4F5D-AA29-5793A2655E17}.Debug|x86.Build.0 = Debug|x86
+		{7E036527-E12E-4F5D-AA29-5793A2655E17}.Release|x86.ActiveCfg = Release|x86
+		{7E036527-E12E-4F5D-AA29-5793A2655E17}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
